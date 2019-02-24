@@ -3,3 +3,10 @@
 ################################################################################
 
 /GeekBurger.Production/bin
+/GeekBurger.Production/obj
+/GeekBurger.Production/appsettings.json
+/GeekBurger.Production.Contract/bin
+/GeekBurger.Production.Contract/obj
+/GeekBurgerOrderChanged/bin/Debug/netcoreapp2.1
+/GeekBurgerOrderChanged/obj
+/GeekBurgerOrderChanged/appsettings.json
