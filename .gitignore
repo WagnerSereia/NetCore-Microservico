@@ -10,3 +10,7 @@
 /GeekBurgerOrderChanged/bin/Debug/netcoreapp2.1
 /GeekBurgerOrderChanged/obj
 /GeekBurgerOrderChanged/appsettings.json
+/GeekBurgerProductionAPI/obj
+/GeekBurgerProductionAPI/appsettings.json
+/GeekBurgerProduction/obj
+/GeekBurgerProduction/appsettings.json
